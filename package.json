@@ -30,7 +30,7 @@
         "fluent-ffmpeg": "^2.1.2",
         "fs-extra": "^10.0.0",
         "inquirer": "^8.2.0",
-        "ytdl-core": "^4.11.0"
+        "ytdl-core": "^4.11.2"
     },
     "devDependencies": {
         "@types/fluent-ffmpeg": "^2.1.20",
